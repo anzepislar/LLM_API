@@ -14,7 +14,7 @@ A Flask-based microservice providing text summarization, sentiment analysis, ent
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<your-username>/LLM_API.git
+git clone https://github.com/anzepislar/LLM_API.git
 cd LLM_API
 python3 -m venv .venv
 source .venv/bin/activate
